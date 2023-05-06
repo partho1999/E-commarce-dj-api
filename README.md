@@ -26,6 +26,9 @@ pip install djangorestframework
 ```bash
 pip install django-filter
 ```
+```bash
+pip install drf-yasg
+```
 Go to the eCommarce folder and run
 
 ```bash
