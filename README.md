@@ -32,8 +32,8 @@ Go to the eCommarce folder and run
 python manage.py runserver
 ```
 
-For Documentation API Run
+## For Documentation API Run
 
-## swagger/ --for swagger-ui
-## redoc/ --for redoc view
-## swagger.json --for geting json file
+for swagger-ui: http://127.0.0.1:8000/swagger/ 
+for redoc view: http://127.0.0.1:8000/redoc/
+for download json file: http://127.0.0.1:8000/swagger.json
