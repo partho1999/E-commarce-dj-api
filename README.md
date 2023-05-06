@@ -1,6 +1,6 @@
 # E-commarce-dj-api
 
-## Installation
+## Installation & Run
 
 make a virtual envrionment 
 ```bash
