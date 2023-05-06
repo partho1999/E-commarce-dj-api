@@ -20,8 +20,8 @@ class ProductsViewSet(ModelViewSet):
     filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]
     filterset_class = ProductFilter
     search_fields = ['name', 'description']
-    ordering_fields = ['old_price']
-    # pagination_class = PageNumberPagination
+    ordering_fields = ['price']
+    
 
 
 
