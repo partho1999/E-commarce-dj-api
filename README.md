@@ -34,6 +34,6 @@ python manage.py runserver
 
 ## For Documentation API Run
 
-for swagger-ui: http://127.0.0.1:8000/swagger/ 
-for redoc view: http://127.0.0.1:8000/redoc/
-for download json file: http://127.0.0.1:8000/swagger.json
+- for swagger-ui: http://127.0.0.1:8000/swagger/ 
+- for redoc view: http://127.0.0.1:8000/redoc/
+- for download json file: http://127.0.0.1:8000/swagger.json
