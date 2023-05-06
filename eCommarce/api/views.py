@@ -34,6 +34,10 @@ class CategoryViewSet(ModelViewSet):
     
 
 
+    
+    
+    
+    
 
 # class ApiProducts(ListCreateAPIView):
 #     queryset = Product.objects.all()
